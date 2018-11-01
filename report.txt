@@ -1,7 +1,11 @@
-1. How many hours do you estimate you used completing this assignment? 
-answer: 2
-2. What was easiest for you when completing this assignment? 
-answer: Altering the about.html
-3. What was the most difficult challenge you experienced when completing this assignment?
-answer: I initially installed ionic 4 instead of ionic 3. due to that the ionic sliding list was not working in ionic 4.
-It took time figuring this out.
+GitHub repository URL where you pushed your code- 
+https://github.com/SWDV-665/week-3-groceries-adding-remove-items-srasool2
+
+How many hours do you estimate you used completing this assignment? 
+3 hrs
+
+What was easiest for you when completing this assignment? 
+Deleting the items from the list.
+
+What was the most difficult challenge you experienced when completing this assignment? 
+Adding the new item in the list.
